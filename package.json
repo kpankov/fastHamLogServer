@@ -1,0 +1,26 @@
+{
+  "name": "fasthamlogserver",
+  "version": "1.0.0",
+  "description": "Fast Ham log web application",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpankov/fastHamLogServer.git"
+  },
+  "keywords": [
+    "ham"
+  ],
+  "author": "kpankov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpankov/fastHamLogServer/issues"
+  },
+  "homepage": "https://github.com/kpankov/fastHamLogServer#readme",
+  "dependencies": {
+    "ituprefixparser": "github:kpankov/ituPrefixParser#1.0.2"
+  },
+  "devDependencies": {}
+}
